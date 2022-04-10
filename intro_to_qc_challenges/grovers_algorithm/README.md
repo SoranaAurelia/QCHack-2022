@@ -5,6 +5,10 @@
     1. Analyzing the connected edges
     2. Modeling idea
 3. ### Implementation
+<b>The solution is implemented in the Teamname_Grover_Problem.ipynb</b>
+
+Team name: 
+Team members:
 
 ## Introduction
 Challenge: find a Hamiltonian cycle in the given graph
