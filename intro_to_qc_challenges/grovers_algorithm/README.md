@@ -153,7 +153,7 @@ A Hamiltonian cycle starting from node 4, always has the properties above. All t
    
    # Simulations
    
-   *<b>A small summary with the different solutions found by different simulators and arhitectures can be found in the Visualisation & Disscusion topics from the QuantumCrew_Grovers_Challange.ipynb.</b>*
+   *<b>A small summary with the different solutions found by different simulators and arhitectures can be found in the Visualisation & Disscusion topics (the last two topics) from the QuantumCrew_Grovers_Challange.ipynb. </b>*
    
    # Discussions
 
