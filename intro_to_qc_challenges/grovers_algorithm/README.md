@@ -1,4 +1,4 @@
-<b>The solution is implemented in the QuantumCrew_Grover_Challange.ipynb</b>
+<b>The solution is implemented in the QuantumCrew_Grovers_Challange.ipynb</b>
 
 Team name: QuantumCrew
 
