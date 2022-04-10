@@ -9,6 +9,10 @@ Team name: QuantumCrew
     1. Analyzing the connected edges
     2. Modeling idea
 3. ### Implementation
+4. ### Optimization
+5. ### Simulations
+6. ### Discussions
+
 
 
 ## Introduction
@@ -146,6 +150,10 @@ A Hamiltonian cycle starting from node 4, always has the properties above. All t
    
    
    The first idea was to check just once the 2 nodes to see if they are connected, but this condition has the entire half of the possible results as solutions, and this doesn't work with Grover's Algorithm. In this situation, we had to add 2 more checks on our 4 qubits to restrict the pool of possible solutions and to have a way to detect them by looking at the probabilities.
+   
+   # Simulations
+   
+   *<b>A small summary with the different solutions found by different simulators and arhitectures can be found in the Visualisation & Disscusion topics from the QuantumCrew_Grovers_Challange.ipynb.</b>*
    
    # Discussions
 
