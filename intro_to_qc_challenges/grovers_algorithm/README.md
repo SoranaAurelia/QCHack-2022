@@ -23,7 +23,7 @@ Challenge: find a Hamiltonian cycle in the given graph
 
 A Hamiltonian cycle is a path visiting all vertices, starting and ending on the same vertex.
 
-In order to implement the Grover Search for this problem, we needed to figure out a few things, the most important one beeing: how do we encode the data?
+In order to implement the Grover Search for this problem, we needed to figure out a few things, the most important one being: how do we encode the data?
 
 After this we need to implement the following:
 - a phase oracle that checks the solution (based on the way we decided to encode them)
@@ -41,7 +41,7 @@ Firstly, we tried to find in the graph certain aspects or properties that would 
     `3 -> 0, 1, 4`; 
     `4 -> 0, 1, 2, 3`.
     
-We saw 4 like a "common factor" (since there's an edge between each other node and it), so we tought about taking it out of the ecuation since we can always start and end on this node. This also simplifies the checks we have to do on a solution because we don't need to also check if our solution is a cycle. 
+We saw 4 like a "common factor" (since there's an edge between each other node and it), so we thought about taking it out of the ecuation since we can always start and end on this node. This also simplifies the checks we have to do on a solution because we don't need to also check if our solution is a cycle. 
 
 ### Modeling idea
 
